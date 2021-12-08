@@ -2,13 +2,28 @@
 
 Modified version of [PavelDoGreat](https://github.com/PavelDoGreat)'s [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) to work with Wallpaper Engine.
 
-Download/Subscribe here: https://steamcommunity.com/sharedfiles/filedetails/?id=1748506393
+现在被复制过来，在wallpaper上可以找到相似的
 
-# Screenshots
-![screenshot](https://i.imgur.com/UuxjSK4.jpg)
-![screenshot](https://i.imgur.com/E79h6uA.jpg)
-![screenshot](https://i.imgur.com/t3xbeYG.jpg)
-![screenshot](https://i.imgur.com/Ntem6Oi.jpg)
-![screenshot](https://i.imgur.com/pQc7g2p.jpg)
-![screenshot](https://i.imgur.com/0vuwsru.jpg)
-![screenshot](https://i.imgur.com/r289w1u.png)
+作者和MIT条约
+
+MIT License
+
+Copyright (c) 2017 Pavel Dobryakov
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
